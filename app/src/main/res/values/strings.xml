@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CalculatorTime</string>
+    <string name="heading_app">Калькулятор времени</string>
+    <string name="hint_first_time">Первое время</string>
+    <string name="operator_calculate">+</string>
+    <string name="hint_second_time">Второе время</string>
+    <string name="add_button">Сложить (+)</string>
+    <string name="subtrack_button">Вычесть (-)</string>
+    <string name="result_text">Результат</string>
+    <string name="example_format_input">Примеры форматов ввода:</string>
+    <string name="example_second">* 45s - 45 секунд</string>
+    <string name="example_minute_second">* 2m30s - 2 минуты 30 секунд</string>
+    <string name="example_hour_minute">* 1h15m - 1 час 15 минут</string>
+    <string name="example_hour_minute_second">* 1h30m45s - 1 час 30 минут 45 секунд</string>
+    <string name="example_hour">* 2h - 2 часа</string>
+    <string name="example_result">5m11s</string>
+</resources>
