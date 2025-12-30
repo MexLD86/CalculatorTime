@@ -14,4 +14,6 @@
     <string name="example_hour_minute_second">* 1h30m45s - 1 час 30 минут 45 секунд</string>
     <string name="example_hour">* 2h - 2 часа</string>
     <string name="example_result">5m11s</string>
+    <string name="exit">Exit</string>
+    <string name="reset">Reset</string>
 </resources>

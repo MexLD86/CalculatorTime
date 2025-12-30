@@ -7,6 +7,7 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="mediumPurple">#006400</color>
 
     <!-- Кастомные цвета для калькулятора времени -->
     <color name="primary_color">#2C3E50</color>
@@ -17,4 +18,10 @@
     <color name="subtract_button_color">#E74C3C</color>
     <color name="regular_text_color">#34495E</color>
     <color name="secondary_text_color">#7F8C8D</color>
+
+    <!--Цвета для кнопок-->
+    <color name="green_active">#27AE60</color>
+    <color name="green_inactive">#95A5A6</color>
+    <color name="red_active">#C0392B</color>
+    <color name="red_inactive">#95A5A6</color>
 </resources>
